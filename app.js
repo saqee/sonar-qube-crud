@@ -14,7 +14,7 @@ const db = mysql.createConnection({
   host: "database-1.ck1i2oq4argg.us-east-1.rds.amazonaws.com",
   user: "admin",
   password: "dev123456",
-  database: "database1",
+  database: "mydb",
 })
 
 // Connect to MySQL
